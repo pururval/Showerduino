@@ -11,9 +11,5 @@ It interfaces with the shower cartridge inside the valve in the wall. The cartri
 # How we built it
 we used android(MITappInventor), adafruit motor shield with stepper motors along with Arduino. We 3-D printed a piece to interface with the cartridge
 
-# What we learned
-Stepper motors can be a pain, don't fry your Arduino, Bluetooth LE is different from normal Bluetooth
-
-# What's next for showerduino
-waterproofing, full battery power, in wall installation
+https://devpost.com/software/showerhack#
 
